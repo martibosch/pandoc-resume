@@ -1,22 +1,22 @@
-Martí Bosch
-============
+Martí Bosch, PhD
+================
 
 ----
 
 > [Google Scholar Profile](https://scholar.google.com/citations?user=spj4l-QAAAAJ) • OrcID: [0000-0001-8735-9144](https://orcid.org/0000-0001-8735-9144)\
 > GitHub: [github.com/martibosch](https://github.com/martibosch) • Personal site: [martibosch.github.io](https://martibosch.github.io)\
 > EPFL ENAC IA CEAT, BP 3232, Station 16, 1015 Lausanne, Switzerland\
-> <marti.bosch@epfl.ch> • +41 21 69 34435 • 28 years old
+> <marti.bosch@epfl.ch> • +41 21 69 34435 • 29 years old
 
 ----
 
 Education
 ---------
 
-Sep 2016-Sep 2020 (expected)
+Sep 2016-May 2021
 :   **PhD in Civil and Environmental Engineering**; [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch) (Lausanne, Switzerland) ; 
 
-    *Directors: Jérôme Chenal and Stéphane Joost*
+    *Thesis title: Spatiotemporal patterns of urbanization during the last four decades in Switzerland and their impacts on urban heat islands. Directors: Jérôme Chenal and Stéphane Joost*
 
 Sep 2015-Jul 2016
 :   **MSc in Informatics**; [École Nationale Supérieure d'Informatique et Mathématiques Appliquées de Grenoble](http://ensimag.grenoble-inp.fr) (Grenoble, France)
@@ -33,7 +33,12 @@ Sep 2010-Jul 2014
 Experience
 ----------
 
-Current (since Sep 2016)
+Current (since Jun 2021)
+:   **Computer scientist**; [Excellence in Africa (EXAF)](http://exaf.epfl.ch/), EPFL (Lausanne, Switzerland)
+
+    Development of a digital education platform to contribute to sustainable urban development in Africa.
+
+Sep 2016-May 2021
 :   **Doctoral Assistant**; [Urban and regional planning community (CEAT)](http://ceat.epfl.ch/), EPFL (Lausanne, Switzerland)
 
     Assessment of the impacts of urban patterns on the environment, transportation and human well being. Directors: Jérôme Chenal, Stéphane Joost
@@ -67,38 +72,57 @@ PhD Courses
 
 : [Python avancé pour le calcul scientifique](http://lyoncalcul.univ-lyon1.fr/events/2017/python/)
 
-Programming Languages
+Computer science skills
 :   
 
-:   **Python:** expert proficiency in the scientific Python stack and geospatial libraries. Good command of performance-optimization tools like Cython, Numba, Dask and PyBind. Advanced proficiency in Flask and Django web frameworks.
+:   **Python:** expert proficiency in the scientific Python stack and geospatial libraries. Good command of performance-optimization tools like Cython, Numba, Dask and PyBind.
 
 :   **C/C++:** good command of object-oriented C++, templates and the standard library
 
-:   **Other:** expert proficiency with the Emacs editor, LaTeX and git. Advanced proficiency in bash, Java, Matlab, R, SQL, HTML, CSS, JavaScript.
+:   **DevOps:** advanced proficiency in Docker, Terraform and GitHub Actions.
+
+:   **Web:** expert proficiency in the Django web framework, HTML, CSS, JavaScript and SQL databases.
+
+:   **Other:** expert proficiency with the Emacs editor, LaTeX and git. Advanced proficiency in bash, Java, Matlab, R.
 
 Languages
 ---------
 
-* Catalan (mothertongue), Spanish (native)
+* Catalan (mothertongue)
+* Spanish (native)
 * English, French (full professional proficiency, C1)
 * Italian (limited working proficiency, B1)
 * German (elementary proficiency, A1)
 
-----
+Service
+-------
 
+Journal peer review
+
+: Environmental Research Letters
+
+: PLOS Computational Biology
+
+: Geoscientific Model Development
+
+: Journal of Open Source Software
+
+----
 
 Publications
 ------------
 
-Submitted manuscripts
-
-: Bosch, M., Locatelli, M., Hamel, P., Remme, R., Chenal, J., & Joost, S. (2020): A spatially-explicit approach to simulate urban heat islands in complex urban landscapes. *Submitted* to Geoscientific Model Development.
-
-: Bosch, M. (2020): DetecTree: Tree detection from aerial imagery in Python. *Under review* in the Journal of Open Source Software. [doi.org/10.21105/joss.02172](https://doi.org/10.21105/joss.02172)
-
 Peer-reviewed journals
 
-: Bosch, M., Jaligot, R., & Chenal, J. (2020). Spatiotemporal patterns of urbanization in three Swiss urban agglomerations: insights from landscape metrics, growth modes and fractal analysis. Landscape Ecology, 1-13. [doi.org/10.1007/s10980-020-00985-y](https://doi.org/10.1007/s10980-020-00985-y)
+: Bosch, M., Locatelli, M., Hamel, P., Remme, R. P., Jaligot, R., Chenal, J., & Joost, S. (2021). Evaluating urban greening scenarios for urban heat mitigation: a spatially explicit approach. Royal Society open science, 8(12), 202174. [doi.org/10.1098/rsos.202174](https://doi.org/10.1098/rsos.202174)
+
+: Bosch, M., Locatelli, M., Hamel, P., Remme, R. P., Chenal, J., & Joost, S. (2021). A spatially explicit approach to simulate urban heat mitigation with InVEST (v3. 8.0). Geoscientific Model Development, 14(6), 3521-3537. [doi.org/10.5194/gmd-14-3521-2021](https://doi.org/10.5194/gmd-14-3521-2021)
+
+: Kemajou, A., Bosch, M., & Chenal, J. (2020). A New Approach to the Collection and Spatial Analysis of Land Values in Lomé and Yaoundé. African Journal on Land Policy and Geospatial Sciences, 3(4), 53-71. [doi.org/10.48346/IMIST.PRSM/ajlp-gs.v3i3.20911](https://doi.org/10.48346/IMIST.PRSM/ajlp-gs.v3i3.20911)
+
+: Bosch, M. (2020). DetecTree: Tree detection from aerial imagery in Python. Journal of Open Source Software, 5(50), 2172. [doi.org/10.21105/joss.02172](https://doi.org/10.21105/joss.02172)
+
+: Bosch, M., Jaligot, R., & Chenal, J. (2020). Spatiotemporal patterns of urbanization in three Swiss urban agglomerations: insights from landscape metrics, growth modes and fractal analysis. Landscape Ecology, 35(4), 879-891. [doi.org/10.1007/s10980-020-00985-y](https://doi.org/10.1007/s10980-020-00985-y)
 
 : Bosch, M. (2019). PyLandStats: An open-source Pythonic library to compute landscape metrics. PLoS One, 14(12). [doi.org/10.1371/journal.pone.0225734](https://doi.org/10.1371/journal.pone.0225734)
 
@@ -128,6 +152,8 @@ Talks
 
 Conferences
 
+: Bosch, M. (2020). A reusable computational workflow to assess urban heat islands in Python. GeoPython 2020. Online conference. September 21-22
+
 : Bosch, M. (2020). Analysis with PyLandStats of the evolution of the Swiss forests. Workshop in the Young Modellers in Ecology Workshop. Online conference. Mai 26-28
 
 : Bosch, M. (2020). PyLandStats: computing landscape metrics in the Python ecosystem. Talk in the Young Modellers in Ecology Workshop. Online conference. Mai 26-28
@@ -137,14 +163,3 @@ Conferences
 : Bosch, M. (2019). Spatiotemporal Patterns of Urbanization in Three Swiss Urban Agglomerations: Insights from Landscape Metrics, Growth Modes and Fractal Analysis. Theoretical Geography VVOIP Debates, Debate 3.1 - Fractals and Multifractals. Online colloquium. Nov 15-16
 
 : Bosch, M., Genevès, P., & Layaïida, N. (2014). Automated refactoring for size reduction of CSS style sheets. ACM symposium on Document engineering. Fort Collins, Colorado. Sep 16-19
-
-
-
-Service
--------
-
-Journal peer review
-
-: Geoscientific Model Development
-
-: Journal of Open Source Software
