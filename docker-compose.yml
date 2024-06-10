@@ -6,8 +6,8 @@ services:
     build:
       context: .
       dockerfile: ./.docker/resume.dockerfile
-    command: make
     container_name: resume-make
+    entrypoint: /entrypoint.sh
     image: resume-make
     volumes:
-      - .:/data
+      - .:/home/app/resume:z
