@@ -6,7 +6,7 @@ Martí Bosch, PhD
 > [Google Scholar Profile](https://scholar.google.com/citations?user=spj4l-QAAAAJ) • OrcID: [0000-0001-8735-9144](https://orcid.org/0000-0001-8735-9144)\
 > GitHub: [github.com/martibosch](https://github.com/martibosch) • Personal site: [martibosch.github.io](https://martibosch.github.io)\
 > EPFL ENAC IA CEAT, BP 3232, Station 16, 1015 Lausanne, Switzerland\
-> <marti.bosch@epfl.ch> • +41 21 69 34435 • 29 years old
+> <marti.bosch@epfl.ch> • +41 21 69 34435 • 32 years old
 
 ----
 
@@ -58,32 +58,17 @@ Feb 2014-Jul 2014
 
     Exploration semantics-preserving refactoring possibilities for Cascading Style Sheets based on logical reasoning. Director: Pierre Genevès
 
-Technical Experience
---------------------
-
-PhD Courses
-: [Scientific programming for Engineers](http://edu.epfl.ch/coursebook/en/scientific-programming-for-engineers-MATH-611) - Lecturer: Gillaume Anciaux
-
-: [Topics in Computational Social Science](https://edu.epfl.ch/coursebook/en/topics-in-computational-social-science-CS-718) - Lecturer: Robert West
-
-: [Optimization and simulation](https://edu.epfl.ch/coursebook/en/optimization-and-simulation-MATH-600) - Lecturer: Michel Bierlaire
-
-: [Summer School on Reproducibility in Computational Sciences](http://rcs18.ethz.ch/)
-
-: [Python avancé pour le calcul scientifique](http://lyoncalcul.univ-lyon1.fr/events/2017/python/)
-
 Computer science skills
-:   
+-----------------------
+* **Python:** expert proficiency in the scientific Python stack and geospatial libraries. Good command of PyTorch and torchvision libraries.
 
-:   **Python:** expert proficiency in the scientific Python stack and geospatial libraries. Good command of performance-optimization tools like Cython, Numba, Dask and PyBind.
+* **C/C++:** good command of object-oriented C++, templates and the standard library
 
-:   **C/C++:** good command of object-oriented C++, templates and the standard library
+* **DevOps:** advanced proficiency in Docker, Terraform and GitHub Actions.
 
-:   **DevOps:** advanced proficiency in Docker, Terraform and GitHub Actions.
+* **Web:** expert proficiency in the Django framework, HTML, CSS, JavaScript and SQL databases.
 
-:   **Web:** expert proficiency in the Django web framework, HTML, CSS, JavaScript and SQL databases.
-
-:   **Other:** expert proficiency with the Emacs editor, LaTeX and git. Advanced proficiency in bash, Java, Matlab, R.
+* **Other:** expert proficiency with the Emacs editor, LaTeX and git. Advanced proficiency in bash, Java, Matlab, R.
 
 Languages
 ---------
@@ -109,16 +94,14 @@ Journal peer review
 
 ----
 
-Publications
-------------
+Selected publications
+---------------------
 
 Peer-reviewed journals
 
-: Bosch, M., Locatelli, M., Hamel, P., Remme, R. P., Jaligot, R., Chenal, J., & Joost, S. (2021). Evaluating urban greening scenarios for urban heat mitigation: a spatially explicit approach. Royal Society open science, 8(12), 202174. [doi.org/10.1098/rsos.202174](https://doi.org/10.1098/rsos.202174)
+: Bosch, M., Locatelli, M., Hamel, P., Remme, R. P., Jaligot, R., Chenal, J., & Joost, S. (2021). Evaluating urban greening scenarios for urban heat mitigation: a spatially explicit approach. Royal Society Open Science, 8(12), 202174. [doi.org/10.1098/rsos.202174](https://doi.org/10.1098/rsos.202174)
 
 : Bosch, M., Locatelli, M., Hamel, P., Remme, R. P., Chenal, J., & Joost, S. (2021). A spatially explicit approach to simulate urban heat mitigation with InVEST (v3. 8.0). Geoscientific Model Development, 14(6), 3521-3537. [doi.org/10.5194/gmd-14-3521-2021](https://doi.org/10.5194/gmd-14-3521-2021)
-
-: Kemajou, A., Bosch, M., & Chenal, J. (2020). A New Approach to the Collection and Spatial Analysis of Land Values in Lomé and Yaoundé. African Journal on Land Policy and Geospatial Sciences, 3(4), 53-71. [doi.org/10.48346/IMIST.PRSM/ajlp-gs.v3i3.20911](https://doi.org/10.48346/IMIST.PRSM/ajlp-gs.v3i3.20911)
 
 : Bosch, M. (2020). DetecTree: Tree detection from aerial imagery in Python. Journal of Open Source Software, 5(50), 2172. [doi.org/10.21105/joss.02172](https://doi.org/10.21105/joss.02172)
 
@@ -128,19 +111,7 @@ Peer-reviewed journals
 
 : Bosch, M., Chenal, J., & Joost, S. (2019). Addressing urban sprawl from the complexity sciences. Urban Science, 3(2), 60. [doi.org/10.3390/urbansci3020060](https://doi.org/10.3390/urbansci3020060)
 
-: Bosch, M. (2019). swisslandstats-geopy: Python tools for the land statistics datasets from the Swiss Federal Statistical Office. Journal of Open Source Software, 4(41), 1511. [doi.org/10.21105/joss.01511](https://doi.org/10.21105/joss.01511)
-
-: Jaligot, R., Chenal, J., & Bosch, M. (2019). Assessing spatial temporal patterns of ecosystem services in Switzerland. Landscape Ecology, 34(6), 1379-1394. [doi.org/10.1007/s10980-019-00850-7](https://doi.org/10.1007/s10980-019-00850-7)
-
-: Jaligot, R., Chenal, J., Bosch, M., & Hasler, S. (2019). Historical dynamics of ecosystem services and land management policies in Switzerland. Ecological indicators, 101, 81-90. [doi.org/10.1016/j.ecolind.2019.01.007](https://doi.org/10.1016/j.ecolind.2019.01.007)
-
-: Kemajou, A., Jaligot, R., Bosch, M., & Chenal, J. (2019). Assessing motorcycle taxi activity in Cameroon using GPS devices. Journal of transport geography, 79, 102472. [doi.org/10.1016/j.jtrangeo.2019.102472](https://doi.org/10.1016/j.jtrangeo.2019.102472)
-
 Conference proceedings
-
-: Gervasoni, L., Bosch, M., Fenet, S., & Sturm, P. (2017). Calculating spatial urban sprawl indices using open data. In 15th International Conference on Computers in Urban Planning and Urban Management. 
-
-: Gervasoni, L., Bosch, M., Fenet, S., & Sturm, P. (2016). A framework for evaluating urban land use mix from crowd-sourcing data. In 2016 IEEE International Conference on Big Data (Big Data) (pp. 2147-2156). IEEE. [doi.org/10.1109/BigData.2016.7840844](https://doi.org/10.1109/BigData.2016.7840844)
 
 : Bosch, M., Genevès, P., & Layaïda, N. (2015). Reasoning with style. In Twenty-Fourth International Joint Conference on Artificial Intelligence. 
 
@@ -152,13 +123,17 @@ Talks
 
 Conferences
 
+: Bosch, M., Ghiggi, G., Pham-Ba, S., & Weil, C. (2024). TSDF - data storage for scalable processing of heterogeneous and geospatial time series. GeoPython 2024. Basel, Switzerland. May 27-29
+
+: Bosch, M. (2023). meteostations-geopy: a Pythonic interface to access data from meteorological stations. EGU General Assembly 2023. Vienna, Austria. Apr 23-28
+
 : Bosch, M. (2020). A reusable computational workflow to assess urban heat islands in Python. GeoPython 2020. Online conference. September 21-22
 
-: Bosch, M. (2020). Analysis with PyLandStats of the evolution of the Swiss forests. Workshop in the Young Modellers in Ecology Workshop. Online conference. Mai 26-28
+: Bosch, M. (2020). Analysis with PyLandStats of the evolution of the Swiss forests. Workshop in the Young Modellers in Ecology Workshop. Online conference. May 26-28
 
-: Bosch, M. (2020). PyLandStats: computing landscape metrics in the Python ecosystem. Talk in the Young Modellers in Ecology Workshop. Online conference. Mai 26-28
+: Bosch, M. (2020). PyLandStats: computing landscape metrics in the Python ecosystem. Talk in the Young Modellers in Ecology Workshop. Online conference. May 26-28
 
-: Bosch, M. (2020). DetecTree: a Python library for tree detection from aerial imagery. AI & Cities track, Applied Machine Learning Days. Lausanne. Jan 25-29
+: Bosch, M. (2020). DetecTree: a Python library for tree detection from aerial imagery. AI & Cities track, Applied Machine Learning Days. Lausanne, Switzerland. Jan 25-29
 
 : Bosch, M. (2019). Spatiotemporal Patterns of Urbanization in Three Swiss Urban Agglomerations: Insights from Landscape Metrics, Growth Modes and Fractal Analysis. Theoretical Geography VVOIP Debates, Debate 3.1 - Fractals and Multifractals. Online colloquium. Nov 15-16
 
